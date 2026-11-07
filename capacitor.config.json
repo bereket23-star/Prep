@@ -1,0 +1,6 @@
+{
+  "appId": "com.qualiexam.bank",
+  "appName": "Quali Exam Prep",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
